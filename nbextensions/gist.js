@@ -141,7 +141,7 @@ define( function () {
             IPython.toolbar.add_buttons_group([
                 {
                     'label'   : 'Share Notebook as gist',
-                    'icon'    : 'fa-share',
+                    'icon'    : 'icon-share',
                     'callback': gist_notebook,
                     'id'      : 'gist_notebook'
                 },
